@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Russell Jeffrey and I'm a React and Node developer and a Data Scientist
-- 👀 I’m interested in Web Development, Artificial Intelligence and Computer Networking
-- 🌱 I’m currently learning SDN, Machine Learning
-- 💞️ I’m looking to collaborate on Front-end/Backend and Machine Learning Projects
+- 👋 Hi, I’m Russell Jeffrey and I'm a Data Scientist and a Researcher
+- 👀 Cyber security, Artificial Intelligence, Deep Learning, Generative AI, Quantum Computing
+- 🌱 I’m currently Large Language Models and More Advanced NLP Models
+- 💞️ I’m looking to collaborate on Machine Learning Projects and Model Deployment 
 - 📫 How to reach me Russell4linux@gmail.com
 
 <!---
